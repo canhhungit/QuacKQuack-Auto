@@ -4,6 +4,8 @@
 
 Link [Cửa hàng chrome trực tuyến](https://chromewebstore.google.com/detail/quackquack-auto/fbkdeiedadagebopgnppnogeejcnaped?hl=en-US).
 
+Nếu có lỗi hoặc góp ý chỉnh sửa liên hệ với mình qua telegram [Tại đây](https://t.me/canhhungit)
+
 <p align="center">
 <img src="https://img001.prntscr.com/file/img001/dE8q3qoHSCOcSQH21bUe9Q.png">
 </p>
