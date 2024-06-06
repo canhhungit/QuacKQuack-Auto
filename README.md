@@ -19,6 +19,14 @@ Nếu có lỗi hoặc góp ý chỉnh sửa liên hệ với mình qua telegram
 - Tự động mở vịt vàng
 - Tự động reload lại trang nếu login hết hạn
 
+## Hướng dẫn sử dụng extension trên điện thoại Android
+
+<p align="center">
+<video width="640" height="480" controls>
+  <source src="video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+</p>
 <p align="center">
 <img src="https://img001.prntscr.com/file/img001/dE8q3qoHSCOcSQH21bUe9Q.png">
 </p>
